@@ -1,3 +1,11 @@
+
+### Admin dashboard project - test build deployed here - https://pmadmindash.netlify.app/
+### This is a training project enhancing my ReactJS skills - all credits to LamaDev channel - https://www.youtube.com/c/LamaDev/about - for amazing tutorials (Thank you!)
+
+
+
+
+----------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
